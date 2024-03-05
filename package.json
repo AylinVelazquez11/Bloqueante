@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo bloqueante en nodejs",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AylinVelazquez11/Bloqueante.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "Aylin velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AylinVelazquez11/Bloqueante/issues"
+  },
+  "homepage": "https://github.com/AylinVelazquez11/Bloqueante#readme"
+}
