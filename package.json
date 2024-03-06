@@ -1,5 +1,5 @@
 {
-  "name": "bloqueante.js",
+  "name": "nobloqueante",
   "version": "1.0.0",
   "description": "prueba del modo bloqueante en nodejs",
   "main": "bloqueante.js",
